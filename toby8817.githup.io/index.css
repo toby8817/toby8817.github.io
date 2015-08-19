@@ -1,0 +1,33 @@
+*{margin: 0:
+  ;}
+
+  body{
+  	background-color: #66cc99;
+    font-family: proxima-nova,'Helvetica Neue',Helvetica,Arial,sans-serif
+    ;
+    font-size: 1.2rem;
+    margin: 20px;
+}
+.profile-pic {
+border-radius: 100px;
+height: 200px;
+width: 200px;
+float: left;
+margin-right: 24px;
+}
+h2{color: #330099
+}
+p{color: #FFFFFF
+}
+div{
+	margin-left: 220px;
+	border: solid 1px #FFFFFF;
+	margin-bottom: 12px;
+	padding: 12px;
+}
+.media{
+	max-width: 100%;
+	max-height: 100%;
+	margin-top: 12px;
+}
+

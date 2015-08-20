@@ -2,18 +2,24 @@
   ;}
 
   body{
-  	background-color: #66cc99;
+  	background-color: #999999;
     font-family: proxima-nova,'Helvetica Neue',Helvetica,Arial,sans-serif
     ;
     font-size: 1.2rem;
     margin: 20px;
 }
+/*Styles for scree 600px and lower*/
+ @media screen and (min-width: 600px){
+ }
+
 .profile-pic {
 border-radius: 100px;
 height: 200px;
 width: 200px;
 float: left;
 margin-right: 24px;
+}
+h1{color: #330099
 }
 h2{color: #330099
 }

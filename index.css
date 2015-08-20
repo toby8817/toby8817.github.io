@@ -2,7 +2,7 @@
   ;}
 
   body{
-  	background-color: #999999;
+  	background-color: #77DDFF;
     font-family: proxima-nova,'Helvetica Neue',Helvetica,Arial,sans-serif
     ;
     font-size: 1.2rem;
@@ -19,11 +19,13 @@ width: 200px;
 float: left;
 margin-right: 24px;
 }
-h1{color: #330099
+h1{color: #FFFFFF;
+	margin-left: 232px;
+	margin-bottom: 12px;
 }
-h2{color: #330099
+h2{color: #00BBFF
 }
-p{color: #FFFFFF
+p{color: #0000FF
 }
 div{
 	margin-left: 220px;
